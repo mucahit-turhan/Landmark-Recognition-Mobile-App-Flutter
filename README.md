@@ -7,4 +7,4 @@ lib     -> src      -> api -> api_keys.dart = Open Weather Map API KEY
 
 lib     -> screens -> landmarkInfo.dart     = IPV4 Address
 
-(https://github.com/oflimuco/Landmark-Recognition-Mobile-App-Flutter/blob/master/screenshots/diagram.png)
+![alt text](https://github.com/oflimuco/Landmark-Recognition-Mobile-App-Flutter/blob/master/screenshots/diagram.png)
